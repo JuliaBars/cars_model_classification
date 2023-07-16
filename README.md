@@ -10,7 +10,7 @@ Model's list is NDA, but you can train this model on Stanford cars dataset or hu
 
 Models were trained on segmented cars, you can segment yours with my script (car_segment_with_yolo_2.ipynb), especially if your model will work with segmented cars.
 
-After checking diffrenet augmentations, I've choosen ColorJitter.
+After checking different augmentations, I've chosen ColorJitter.
 ___
 **MobileNetV2 got 91% accuracy, but 've got more mistakes with real data. While MobileNetV3 've got only 79% accuracy, but also 77% acc with real data.**
 
