@@ -8,7 +8,7 @@ All layers were fine tuned and the last classifier layer was replaced entirely.
 ___
 Model's list is NDA, but you can train this model on Stanford cars dataset or huge 3778 models dataset from Kaggle.
 
-Models were trained on segmented cars, you can segment yours with my script (car_segment_with_yolo_2.ipynb), especially if your model will work with segmented cars.
+Models have been trained on segmented cars, you can segment yours with my script (car_segment_with_yolo_2.ipynb), especially if your model will work with segmented cars.
 
 After checking different augmentations, I've chosen ColorJitter.
 ___
