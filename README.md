@@ -4,6 +4,7 @@
 
 The key issue of this project was light model. So i choose MobileNetV2 with 2,5m parameteres and MobileNetV3(large) with 4,5 m parameteres.
 
+
 All layers were fine tuned and the last classifier layer was replaced entirely.
 ___
 Model's list is NDA, but you can train this model on Stanford cars dataset or huge 3778 models dataset from Kaggle.
